@@ -1,5 +1,5 @@
 import React from "react"
-import imageBattle from "../images/wally-battle.jpg"
+import imageBattle from "../images/level1.jpg"
 
 const Game = () => {
 

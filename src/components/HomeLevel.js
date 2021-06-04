@@ -1,9 +1,8 @@
 import React from "react"
-import HomeLevel from ""
 import { Link } from "react-router-dom"
 
-const Home = ({ levelsData }) => {
-	console.log("-------------------HOME-------------------")
+const HomeLevel = ({ levelsData }) => {
+	console.log("-------------------HOME-LEVEL-------------------")
 	console.log(levelsData)
 	
 	return (
@@ -16,4 +15,4 @@ const Home = ({ levelsData }) => {
 	)
 }
 
-export default Home
+export default HomeLevel

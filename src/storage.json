@@ -1,0 +1,34 @@
+{
+    "levels": [
+        {
+            "id": 0,
+            "level": 1,
+            "characters": ["Waldo"],
+            "image": "level1.jpg",
+            "coords": {
+                "x": [497, 525],
+                "y": [263, 291]
+            }
+        },
+        {
+            "id": 1,
+            "level": 2,
+            "characters": ["Waldo, Odlaw"],
+            "image": "level2.jpeg",
+            "coords": {
+                "x": [497, 525],
+                "y": [263, 291]
+            }
+        },
+        {
+            "id": 2,
+            "level": 3,
+            "characters": ["Waldo, Odlaw, Wizard"],
+            "image": "level3.jpeg",
+            "coords": {
+                "x": [497, 525],
+                "y": [263, 291]
+            }
+        }
+    ]
+}
